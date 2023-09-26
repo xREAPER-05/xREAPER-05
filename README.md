@@ -1,5 +1,5 @@
 # 💫 About Me:
-Actualmente no trabajo<br>Estoy estudiando desarrollo de software<br>Tengo conocimiento básico en Python y C++<br>He realizado un trabajo de semestre con el lenguaje Python<br>Actualmente estoy realizando otro para este cuarto semestre
+Actualmente no trabajo📊<br>Estoy estudiando desarrollo de software💻<br>Tengo conocimiento básico en Python, C++ y MySQL<br>He realizado un trabajo de semestre con el lenguaje Python📚<br>Actualmente estoy realizando otro para este cuarto semestre📝
 
 
 ## 🌐 Socials:
