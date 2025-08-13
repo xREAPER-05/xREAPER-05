@@ -1,5 +1,5 @@
 # 💫 About Me:
-Actualmente no trabajo📊<br>Estudiando tecnologia de computacion y desarrollo de software💻<br>Conocimiento básico en Python, C++ y MySQL<br>He realizado proyectos de universidad con Python, Arduino, MySQL📚
+Actualmente no trabajo📊<br>tecnologo de computacion y desarrollo de software💻<br>Conocimiento básico en Python, C++ y MySQL<br>He realizado proyectos de universidad con Python, Arduino, MySQL📚
 
 
 ## 🌐 Socials:
